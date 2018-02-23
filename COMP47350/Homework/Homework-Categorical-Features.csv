@@ -1,0 +1,4 @@
+Feature,count,unique,top,freq
+customer,1000,1000,1099939,1
+homeOwner,1000,2, false,660
+churn,1000,2, false,512

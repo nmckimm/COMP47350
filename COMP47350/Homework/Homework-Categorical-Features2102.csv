@@ -1,0 +1,11 @@
+Feature,count,unique,top,freq
+Customer ID,1000,1000,1099939,1
+Occupation,1000,8,,749
+Region Type,1000,8,,489
+Marriage Status,1000,3,unknown,396
+Has Children,1000,2,false,769
+Has Smart Phone,1000,2,true,902
+Credit Rating,1000,7,B,370
+Is Homeowner,1000,2, false,660
+Credit Card On Account,1000,6,true,635
+Churn (Customer Left),1000,2, false,512
